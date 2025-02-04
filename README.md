@@ -1,5 +1,3 @@
-# AMIGO_SECRETO
-
 # Amigo Secreto 🎁
 
 ## Índice
